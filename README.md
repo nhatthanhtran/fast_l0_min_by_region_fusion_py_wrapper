@@ -21,6 +21,9 @@ This folder contain:
 - L0 module wrapper: l0_module.cpython-39-x86_64-linux-gnu.so
 
 ### How to use
+
+## main_l0()
+
 Copy the L0 module wrapper into your python directory. In your python code, import the module
 by import l0_module. If you save the L0 module in 
 another directory then point your import to the 
@@ -42,3 +45,6 @@ For example:
 import l0_module
 
 l0_module.main_l0(i"country_house.jpg",0.2,"country_house_example.png")
+
+
+## l0_norm()
