@@ -2,6 +2,7 @@
 
 This is a python wrapper for the paper [Fast and Effective L0 Gradient Minimization by Region Fusion](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Nguyen_Fast_and_Effective_ICCV_2015_paper.pdf) by Rang Nguyen, and Michael Brown.
 
+The orginal Github: https://github.com/rangnguyen/L0-gradient-minimization
 
 ### File structure
 This folder contain:
