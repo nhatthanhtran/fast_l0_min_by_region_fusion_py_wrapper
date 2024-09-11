@@ -2,17 +2,6 @@
 
 This is a python wrapper for the paper [Fast and Effective L0 Gradient Minimization by Region Fusion](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Nguyen_Fast_and_Effective_ICCV_2015_paper.pdf) by Rang Nguyen, and Michael Brown.
 
-### Citation
-If you find this wrapper useful for your research please cite the paper.
-```
-@inproceedings{nguyen2015fast,
-  title={Fast and effective L0 gradient minimization by region fusion},
-  author={Nguyen, Rang MH and Brown, Michael S},
-  booktitle={Proceedings of the IEEE international conference on computer vision},
-  pages={208--216},
-  year={2015}
-}
-```
 
 ### File structure
 This folder contain:
@@ -58,4 +47,16 @@ Input:
 - maxSize (int): default 32
 - maxLoop (int): default 100 
 
+
+### Citation
+If you find this wrapper useful for your research please cite the paper.
+```
+@inproceedings{nguyen2015fast,
+  title={Fast and effective L0 gradient minimization by region fusion},
+  author={Nguyen, Rang MH and Brown, Michael S},
+  booktitle={Proceedings of the IEEE international conference on computer vision},
+  pages={208--216},
+  year={2015}
+}
+```
 
